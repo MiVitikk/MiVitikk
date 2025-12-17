@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Languages
+<img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/javascript.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/java.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/python.svg" alt="Alt Text" width="50" height="75">
+
+### Technologies
+<img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/boostrap.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/nodejs.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/react.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/spring.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/mysql.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/postgresql.svg" alt="Alt Text" width="50" height="75">
+
 <!--
 **MiVitikk/MiVitikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
