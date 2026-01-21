@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+On my way to become a Software Developer! ✨
+
 ### Languages
 <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/javascript.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/java.svg" alt="Alt Text" width="50" height="75"> <img src="https://github.com/MiVitikk/MiVitikk/blob/main/Logos/python.svg" alt="Alt Text" width="50" height="75">
 
